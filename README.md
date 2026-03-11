@@ -106,4 +106,5 @@ ssh -i "key.pem" ubuntu@public-ip
 ## Author
 
 Atif 
+
 Role: Cloud Support / DevOps Learner
